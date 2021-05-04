@@ -3,6 +3,7 @@ import tkinter.font as tkFont
 from tkinter import messagebox
 import random
 
+
 # 親クラスのtk.Tkを継承、root（window）の設定
 class Hangman_app(tk.Tk):
     frame = list()

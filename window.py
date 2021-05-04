@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import time
 
+
 # 親クラスのtk.Frameを継承したApplication_Frame1クラスを作成
 class Application_Frame1(tk.Frame):
     # ウィンドウ

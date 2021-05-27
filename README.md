@@ -3,9 +3,7 @@
 hangman game についてGUIで遊ぶゲームです。
 
 ## Description
-<img src=demo/demo1.png width="25０">
-<img src=demo/demo2.png width="250">
-<img src=demo/demo3.png width="250">
+<img src=demo/demo1.png width="25０"> <img src=demo/demo2.png width="250"> <img src=demo/demo3.png width="250">
 
 <!-- ![main_screen](demo/demo1.png)![demo2](demo/demo2.png)![demo3](demo/demo3.png) -->
 

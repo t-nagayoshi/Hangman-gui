@@ -3,7 +3,7 @@
 hangman game についてGUIで遊ぶゲームです。
 
 ## Description
-<img src="demo/demo1.png" width="２５０">
+<img src=demo/demo1.png width="２５０">
 ![main_screen]()![demo2](demo/demo2.png)![demo3](demo/demo3.png)
 
 ゲーム内容に関しては、START画面（[ハングマン (ゲーム)（Wikipedia）](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3_(%E3%82%B2%E3%83%BC%E3%83%A0))）に記載のある通り、ランダムに設定されたアルファベットのの単語を予想し、その単語に含むと思われるアルファベット1文字を入力します。

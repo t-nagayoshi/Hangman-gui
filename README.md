@@ -12,8 +12,7 @@ hangmanの絵が完成する前に、解答を当てるゲームです
 
 「demo画像」
 
-<img src=demo/demo1.png width="450">
-<img src=demo/demo2.png width="350"> <img src=demo/demo3.png width="350">
+<img src=demo/demo1.png width="350"> <img src=demo/demo2.png width="350"> <img src=demo/demo3.png width="350">
 <!-- ![main_screen](demo/demo1.png)![demo2](demo/demo2.png)![demo3](demo/demo3.png) -->
 
 ## Requirement（動作環境）

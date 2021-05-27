@@ -3,12 +3,13 @@
 hangman game についてGUIで遊ぶゲームです。
 
 ## Description
-![main_gif](demo/main_gui.png)
+![demo1](demo1/main_gui.png)
 ゲーム内容に関しては、START画面（[ハングマン (ゲーム)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3_(%E3%82%B2%E3%83%BC%E3%83%A0))）に記載のある通り、ランダムに設定されたアルファベットのの単語を予想し、その単語に含むと思われるアルファベット1文字を入力します。
 正解ならば、解答のアルファベットが表示され、不正解ならhangmanの絵が一部描写されます。
 hangmanの絵が完成する前に、解答を当てるゲームです
 
-「NEW START」を押すとGame画面に移動するので、
+## Use
+「NEW START」を押すとGame画面に移動するので、入力ボックスにアルファベットを入力します。
 
 ## Requirement（動作環境）
 - macOS Mojave

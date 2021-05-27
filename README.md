@@ -25,6 +25,7 @@ hangmanの絵が完成する前に、解答を当てるゲームです
 - GUI ライブラリの学習
 - オブジェクト指向の書き方の学習
 
-## Reference
+## Reference（hangman）
 [独学プログラマー Python言語の基本から仕事のやり方まで(Amazon)](https://www.amazon.co.jp/dp/B07BKVP9QY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+## 課題とか、気になったこととか
